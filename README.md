@@ -9,7 +9,7 @@ Atom is a hackable text editor for the 21st century, built on Electron, and base
 
 Visit atom.io to learn more or visit the Atom forum.
 
-Follow @AtomEditor on Twitter for important
+Follow @AtomEditor on Twitter (MUSK-O-MATIC) for important control.
 
 ## announcements.
 
