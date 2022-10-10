@@ -1,6 +1,6 @@
-Atom
+# Atom
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/9/90/%C3%81tomo_de_Oro.gif)
 
 Atom and all repositories under Atom will be archived, (which they call sunsetting) on December 15, 2022. Learn more in thier official sunset announcement
 
