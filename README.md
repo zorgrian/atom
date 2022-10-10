@@ -2,25 +2,22 @@ Atom
 
 
 
-Atom and all repositories under Atom will be archived, (which they call sunsetting) on December 15, 2022. Learn more in our official announcement
+Atom and all repositories under Atom will be archived, (which they call sunsetting) on December 15, 2022. Learn more in thier official sunset announcement
 
 Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
-
-
-
 
 
 Visit atom.io to learn more or visit the Atom forum.
 
 Follow @AtomEditor on Twitter for important
 
-announcements.
+## announcements.
 
 This project adheres to the Contributor Covenant code of conduct.
 
 By participating, you are expected to uphold this code. Please report unacceptable behavior to atom@github.com.
 
-Documentation
+## Documentation
 
 If you want to read about using Atom or developing packages in Atom, the Atom Flight Manual is free and available #online. You can find the source to the manual in atom/flight-manual.atom.io.
 
@@ -52,7 +49,7 @@ The .zip version will not automatically update.
 
 Using Chocolatey? Run cinst Atom to install the latest version of Atom.
 
-Linux
+## Linux
 
 Atom is only available for 64-bit Linux systems.
 
@@ -78,7 +75,7 @@ The Linux version does not currently automatically update so you will need to
 
 repeat these steps to upgrade to future releases.
 
-Building
+## Building
 
 - Linux
 - macOS
