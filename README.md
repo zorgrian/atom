@@ -2,7 +2,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/90/%C3%81tomo_de_Oro.gif)
 
-Atom and all repositories under Atom will be archived, (which they call sunsetting) on December 15, 2022. Learn more in thier official sunset announcement
+Atom and all repositories under Atom will be archived, (**which they call sunsetting**) on December 15, 2022. Learn more in thier official sunset announcement. It does look a bit fishy when one considers that ATOM is a direct competitor to the Gates-ware offering.
 
 Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 
