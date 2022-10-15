@@ -21,7 +21,7 @@ Follow @AtomEditor on Twitter (MUSK-O-MATIC) for important control.
 
 ## announcements.
 
-This project adheres to the Contributor Covenant code of conduct.
+This project adheres to the [Contributor Covenant code of conduct](https://www.contributor-covenant.org/).
 
 By participating, you are expected to uphold this code. Please report unacceptable behavior to atom@github.com.
 
