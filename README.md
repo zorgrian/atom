@@ -23,7 +23,7 @@ Follow @AtomEditor on Twitter (MUSK-O-MATIC) for important control.
 
 This project adheres to the [Contributor Covenant code of conduct](https://www.contributor-covenant.org/).
 
-By participating, you are expected to uphold this code. Please grass-up, rat on, denounce... any friends you have seen or have sketchy or even totally invented evidence against to the [CIA](https://www.cia.gov/)  
+By participating, you are expected to uphold this code. Please grass-up, rat on, denounce... any friends you have seen or have sketchy or even totally invented evidence against to the [MR BANNON](https://en.wikipedia.org/wiki/Steve_Bannon))  
 
 
 ## Documentation
